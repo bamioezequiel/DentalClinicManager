@@ -1,0 +1,98 @@
+# Archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios de compilación
+/bin/
+/build/
+/target/
+
+# Configuración específica del IDE
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Eclipse ###
+.project
+.classpath  GNU nano 7.1                                                                                               .gitignore                                                                                                Modified
+.classpath/gradle-app.setting
+.gradle-build/
+
+# Archivos de configuración locales
+*.env
+*.properties
+
+# Archivos empaquetados de distribución
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Help          ^O Write Out     ^W Where Is      ^K Cut           ^T Execute       ^C Location      M-U Undo         M-A Set Mark     M-] To Bracket   M-Q Previous     ^B Back          ^◂ Prev Word     ^A Home
+^X Exit          ^R Read File     ^\ Replace       ^U Paste         ^J Justify       ^/ Go To Line    M-E Redo         M-6 Copy         ^Q Where Was     M-W Next         ^F Forward       ^▸ Next Word     ^E End
+/gradle-app.setting
+.gradle-build/
+
+# Archivos de configuración locales
+*.env
+*.properties
+
+# Archivos empaquetados de distribución
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
